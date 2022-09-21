@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "route_to_times_square_json",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6347" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 585915.255232796189375, 4513458.954416099004447 ], [ 585419.428933977498673, 4512593.108491296879947 ], [ 585907.854840276530012, 4512319.293968068435788 ] ] ] } }
+]
+}
